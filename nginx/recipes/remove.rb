@@ -6,5 +6,5 @@
 
 
 package 'nginx' do 
-	action [:purge]
+	action :purge
 end 
