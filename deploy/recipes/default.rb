@@ -1,4 +1,3 @@
-#
 # Cookbook:: deploy
 # Recipe:: default
 #
