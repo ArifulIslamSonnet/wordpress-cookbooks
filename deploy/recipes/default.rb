@@ -20,13 +20,4 @@ application app_path do
     repository app["app_source"]["url"]
     revision app["app_source"]["revision"]
   end
-
 end
-# deploy git repo from opsworks app
-#application app_path do
-#  git app_path do
-#    repository app['app_source']['url']
-#    revision app["app_source"]["revision"]
-#    deploy_key app['app_source']['ssh_key']
-#  end
-#end
