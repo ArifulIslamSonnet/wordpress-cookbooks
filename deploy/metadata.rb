@@ -1,6 +1,6 @@
 name 'deploy'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Md Ariful Islam'
+maintainer_email 'aisonnet01@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures deploy'
 long_description 'Installs/Configures deploy'
